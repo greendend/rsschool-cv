@@ -1,0 +1,1 @@
+https://github.com/greendend/rsschool-cv/blob/gh-pages/cv.md
