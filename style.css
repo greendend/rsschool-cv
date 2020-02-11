@@ -1,0 +1,60 @@
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.inf {
+    display: inline-block;
+    width: 500px;    
+}
+
+.inf .avatar {
+    width: 450px;
+    height: auto;
+    margin-bottom: 30px;
+    border-radius: 225px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.inf1 {
+    width: 450px;
+    margin-right: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+    font-weight: 600;
+}
+
+.cont {
+    width: 100px;
+    height: auto;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.contacts {
+    width: 470px;
+    padding-bottom: 0px;  
+}
+
+.container-inf1 {
+    position: absolute;
+    top: 15%
+}
+
+.tg {
+    width: 95px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.vk {
+    width: 90px;
+    height: auto;
+}
+
